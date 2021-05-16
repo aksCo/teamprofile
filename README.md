@@ -17,6 +17,8 @@ npm run test
 ![Walkthrough Video 2](Videos/2_Output.mov)
 ![Tests](Videos/3_Tests.mov)
 
+If unable to view Videos, please navigate to Videos folder.
+
 ## Credits
 https://www.youtube.com/watch?v=prKwdTbvF9E
 https://github.com/avatl/employee-page
